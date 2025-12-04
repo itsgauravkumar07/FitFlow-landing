@@ -31,7 +31,7 @@ export default function Testimonials(){
                 <div className="bg-black px-5 py-5 rounded-3xl shadow-sm border border-white/20">
                     <div className="px-2 rounded flex items-center">
                             <Image 
-                                src="/images/person2.jpg"
+                                src="/images/Person2.jpg"
                                 alt="Hero section image"
                                 width={100}
                                 height={100}
