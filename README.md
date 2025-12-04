@@ -1,6 +1,7 @@
 # Fitness Coaching — FitFlow (Landing Page)
 
 **Stack:** Next.js (App Router), TypeScript, Tailwind CSS  
+
 **Deployed:** https://github.com/itsgauravkumar07/FitFlow-landing
 
 **Repo:** https://fit-flow-landing-ten.vercel.app/
